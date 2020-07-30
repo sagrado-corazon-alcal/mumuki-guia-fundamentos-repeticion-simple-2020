@@ -1,6 +1,4 @@
-Usando sin definir `LineaNegra4Este`, escribí un procedimiento `CuadradoNegro4` que dibuje un cuadrado de 4x4, dejando el cabezal en el extremo superior derecho del mismo.
-
-Tené en cuenta lo que hablamos en el ejercicio anterior sobre el **caso borde**.
+En el ejercicio anterior definimos el procedimiento `LineaNegra4Este`. Ahora vamos a utilizarlo para dibujar un cuadrado negro igualito a este:
 
 <gs-board>
   GBB/1.0
@@ -23,3 +21,7 @@ Tené en cuenta lo que hablamos en el ejercicio anterior sobre el **caso borde**
      cell 3 3 Negro 1
      head 3 3
 </gs-board>
+
+> Definí el procedimiento `CuadradoNegro4` para dibujar un cuadrado de 4x4 con bolitas negras dejando el cabezal en el extremo superior derecho del tablero. No te olvides de invocar `LineaNegra4Este`. 
+
+> Tené en cuenta lo que hablamos en el ejercicio anterior sobre el **caso borde**. :eyes:

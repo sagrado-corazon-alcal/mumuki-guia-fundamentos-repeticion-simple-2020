@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: PonerAzulLejos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PonerAzulLejos
   inspection: HasRepeat

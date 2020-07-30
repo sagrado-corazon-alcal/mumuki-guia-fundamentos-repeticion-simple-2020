@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: CuadradoNegro4
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CuadradoNegro4
   inspection: HasRepeat
-- binding: CuadradoNegro4
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CuadradoNegro4
   inspection: HasUsage:LineaNegra4Este

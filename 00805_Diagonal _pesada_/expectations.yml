@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: DiagonalPesada4Azul
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DiagonalPesada4Azul
   inspection: HasRepeat

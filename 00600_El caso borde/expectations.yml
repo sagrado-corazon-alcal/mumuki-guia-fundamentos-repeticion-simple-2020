@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: LineaNegra4Este
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LineaNegra4Este
   inspection: HasRepeat
