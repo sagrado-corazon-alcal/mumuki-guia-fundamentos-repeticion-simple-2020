@@ -12,9 +12,9 @@ program {
 }
 ```
 
-Fijate que el `Mover(Sur)` lo pusimos **antes** del `repeat`, y por lo tanto se ejecuta una vez sola.
+Fijate que el `Mover(Sur)` lo pusimos **antes** del `repeat`, y por lo tanto se ejecuta una vez sola. Teniendo en cuenta esto:
 
-> Sabiendo esto, escribí `Poner3AlNoreste()`, que ponga 3 bolitas negras en la primera celda al Noreste del cabezal.
+> Definí el procedimiento `Poner3AlNoreste()`, que ponga 3 bolitas negras en la primera celda al Noreste del cabezal.
 
 <table class= "table" style="width:100%">
   <thead>
