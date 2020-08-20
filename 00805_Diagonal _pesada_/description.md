@@ -12,4 +12,4 @@ Ahora vamos a hacer lo mismo, pero en versión "pesada".
     head 4 4 
 </gs-board>
 
-> Construí un procedimiento `DiagonalPesada4Azul` que resuelva el problema.
+> Definí un procedimiento `DiagonalPesada4Azul` que resuelva el problema.
