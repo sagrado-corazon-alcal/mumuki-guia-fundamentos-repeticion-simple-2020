@@ -2,7 +2,7 @@ Como te contábamos cuando empezaste, programar nos da un gran poder: **nos perm
 
 ¿Y qué quiere decir eso de "repetitivas"? Pensemos, por ejemplo, cómo haríamos un programa que ponga 5 bolitas azules:
 
-```puppet
+```gobstones
 program {
   Poner(Azul)    
   Poner(Azul)    
