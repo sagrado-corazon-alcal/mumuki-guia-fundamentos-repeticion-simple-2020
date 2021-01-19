@@ -2,4 +2,4 @@ expectation "Hay que dividir en subtareas. Intentá crear un procedimiento que p
    within `DiagonalPesada4Azul` delegates; 
 
 expectation "Parece que hay lógica repetida. Recordá utilizar el `repeat`. ¡Probablemente lo tengas que usar en más de un lugar!":
-  within `DiagonalPesada4Azul` count(uses repeat) = 2;
+  through `DiagonalPesada4Azul` count(uses repeat) = 2;
