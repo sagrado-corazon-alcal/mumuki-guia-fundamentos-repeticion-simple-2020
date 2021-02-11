@@ -22,6 +22,6 @@ En el ejercicio anterior definimos el procedimiento `LineaNegra4Este`. Ahora vam
      head 3 3
 </gs-board>
 
-> Definí el procedimiento `CuadradoNegro4` para dibujar un cuadrado de 4x4 con bolitas negras dejando el cabezal en el extremo superior derecho del cuadrado. No te olvides de invocar `LineaNegra4Este`. 
+> Definí el procedimiento `CuadradoNegro4` para dibujar un cuadrado de 4x4 con bolitas negras. Al empezar, el cabezal se encuentra en la esquina inferior izquierda del cuadrado (no necesariamente del tablero :exploding_head:) y cuando termine el programa el cabezal deberá quedar en el extremo superior derecho del cuadrado. No te olvides de invocar `LineaNegra4Este`. 
 
 > Tené en cuenta lo que hablamos en el ejercicio anterior sobre el **caso borde**. :eyes:
