@@ -1,4 +1,4 @@
-Es fácil che, acá está el código del ejercicio anterior:
+El código del ejercicio anterior puede ayudarte un poco :wink:
 
 ```gobstones
 procedure MoverOeste10() {

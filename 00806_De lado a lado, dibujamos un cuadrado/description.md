@@ -1,6 +1,6 @@
 En el ejercicio anterior definimos el procedimiento `LineaNegra4Este`. Ahora vamos a utilizarlo para dibujar un cuadrado negro igualito a los de los tableros de ejemplo:
 
-<table class= "table" style="width:100%">
+<table class= "table table-borderless" style="width:100%">
   <tbody>
   <tr>
     <td style="text-align: center">  

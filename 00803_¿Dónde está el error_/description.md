@@ -1,6 +1,6 @@
 Mientras corregíamos ejercicios de un compañero tuyo, nos encontramos con una solución para `LineaRoja4` que no está del todo bien, mirá:
 
-<table class= "table" style="width:100%">
+<table class= "table table-borderless" style="width:100%">
   <thead>
   <tr>
     <th style="text-align: center">Tablero inicial</th>
