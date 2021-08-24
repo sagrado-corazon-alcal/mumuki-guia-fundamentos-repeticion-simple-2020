@@ -1,3 +1,2 @@
-¡Bien, encontraste el error! 
-
-Fijate qué sutil que era, casi imperceptible para el ojo no entrenado. Moraleja: el orden dentro de un `repeat` **también importa**, y mucho.
+¡Bien, corregiste el error!
+No fue tan fácil de encontrar, ¿no? :sweat: Ahora ya sabemos que el orden dentro de un `repeat` **también importa**, y mucho.

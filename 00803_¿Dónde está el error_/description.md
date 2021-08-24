@@ -1,4 +1,4 @@
-Mientras corregíamos ejercicios de un compañero tuyo, nos encontramos con una solución para `LineaRoja4` que no está del todo bien, mirá:
+Esta solución para LineaRoja4 no resuelve el problema como esperábamos, mirá:
 
 <table class= "table table-borderless" style="width:100%">
   <thead>
