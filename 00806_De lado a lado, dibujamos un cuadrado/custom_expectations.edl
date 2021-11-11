@@ -1,2 +1,2 @@
-expectation "La solución tiene dos `repeat`":
+expectation "La solución tiene dos `repeat` aparte del de `LineaNegra4Este`":
   count(uses repeat) = 2;
