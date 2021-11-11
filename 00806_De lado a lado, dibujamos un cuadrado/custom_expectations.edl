@@ -1,2 +1,0 @@
-expectation "La solución tiene dos `repeat`":
-  count(uses repeat) = 3;
