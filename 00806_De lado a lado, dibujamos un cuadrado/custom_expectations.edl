@@ -1,2 +1,2 @@
-expectation "La solución tiene dos `repeat` aparte del de `LineaNegra4Este`":
+expectation "Son necesarios dos `repeat` aparte del de `LineaNegra4Este`. Tené en cuenta que secuencias se repiten para incluirlas dentro de esta estructura.":
   count(uses repeat) = 2;
