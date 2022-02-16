@@ -29,7 +29,7 @@ Fijate que `Mover(Sur)` lo pusimos **antes** del `repeat` y `Mover(Norte)` lo pu
     <td style="text-align: center">  
       <gs-board>
         GBB/1.0
-        size 3 3
+        size 4 4
         head 1 1
       </gs-board>
     </td>
@@ -37,7 +37,7 @@ Fijate que `Mover(Sur)` lo pusimos **antes** del `repeat` y `Mover(Norte)` lo pu
     <td style="text-align: center">
       <gs-board>
         GBB/1.0
-        size 3 3
+        size 4 4
         cell 2 2 Negro 3
         head 2 2
       </gs-board>
